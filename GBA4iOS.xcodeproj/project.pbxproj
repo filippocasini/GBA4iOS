@@ -2053,7 +2053,7 @@
 						};
 					};
 					CC2D56FB1798F2EC00C616EB = {
-						DevelopmentTeam = 5VQK5LXSL6;
+						DevelopmentTeam = 98F98CW4KJ;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -2071,8 +2071,10 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = CC2D56F31798F2EC00C616EB;
 			productRefGroup = CC2D56FD1798F2EC00C616EB /* Products */;
@@ -3024,7 +3026,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = 98F98CW4KJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3051,7 +3053,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.GBA4iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.filippocasini.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -3227,7 +3229,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = 98F98CW4KJ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GBA4iOS/GBA4iOS-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -3249,7 +3251,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.GBA4iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.filippocasini.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -3540,7 +3542,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = 98F98CW4KJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3567,7 +3569,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.GBA4iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.filippocasini.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -3585,7 +3587,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = 98F98CW4KJ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GBA4iOS/GBA4iOS-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -3607,7 +3609,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.GBA4iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.filippocasini.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -3736,7 +3738,7 @@
 				CODE_SIGN_ENTITLEMENTS = GBA4iOS/GBA4iOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 5VQK5LXSL6;
+				DEVELOPMENT_TEAM = 98F98CW4KJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3763,7 +3765,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.rileytestut.GBA4iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.filippocasini.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
